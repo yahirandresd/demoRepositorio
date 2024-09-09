@@ -6,4 +6,7 @@ for x in lista:
     print(x)
     
 def restta(a,b):
-    print(a + b)
+    print(a - b)
+
+def division(a, b):
+    print(a/b)
