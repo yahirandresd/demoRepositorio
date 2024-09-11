@@ -1,7 +1,7 @@
 
 def suma(x, y):
     """esto es una suma"""
-    return x+y
+    return x/y
 
 def resta(a,b):
     #esto es una resta
