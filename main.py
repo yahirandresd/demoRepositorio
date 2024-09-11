@@ -15,5 +15,7 @@ def multiplicacion(a,b):
 
 def cociente(a,b):
     return a%b
+def imprimir(a):
+    print(a)
 
 resultado=suma(7,5)
