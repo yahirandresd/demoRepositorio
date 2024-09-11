@@ -13,4 +13,7 @@ def division(a, b):
 def multiplicacion(a,b):
     return a-b
 
+def cociente(a,b):
+    return a%b
+
 resultado=suma(7,5)
