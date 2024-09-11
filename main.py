@@ -4,6 +4,7 @@ def sumar(x, y):
     return x+y
 
 def resta(a,b):
+    #esto es una resta
     return a-b
 
 def division(a, b):
