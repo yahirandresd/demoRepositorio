@@ -1,6 +1,6 @@
 
 def suma(x, y):
-    print("hola")
+    """esto es una suma"""
     return x+y
 
 def resta(a,b):
