@@ -13,4 +13,7 @@ def division(a, b):
 def multiplicacion(a,b):
     return a-b
 
+def imprimir(a):
+    print(a)
+
 resultado=suma(7,5)
